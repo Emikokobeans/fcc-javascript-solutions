@@ -1,0 +1,23 @@
+{
+  "name": "fcc-javascript-solutions",
+  "version": "1.0.0",
+  "description": "In the JavaScript Algorithm and Data Structures Certification, I consolidated the fundamentals of JavaScript including variables, arrays, objects, loops, and functions. The course included a number of challenges that escalated in difficulty and ended in a series of projects to complete to gain the certification. This repo contains my solutions to these challenges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emikokobeans/fcc-javascript-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emikokobeans/fcc-javascript-solutions/issues"
+  },
+  "homepage": "https://github.com/Emikokobeans/fcc-javascript-solutions#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
