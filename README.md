@@ -27,11 +27,11 @@ The course included a number of challenges that escalated in difficulty and ende
 
 #### Intermediate Algorithm Scripting
 - [x] Sum all Number in a Range
-- [ ] Diff Two Arrays
-- [ ] Seek and Destroy
-- [ ] Wherefore art thou
-- [ ] Spinal Tap Case
-- [ ] Pig Latin
+- [x] Diff Two Arrays
+- [x] Seek and Destroy
+- [x] Wherefore art thou
+- [x] Spinal Tap Case
+- [x] Pig Latin
 - [ ] Search and Replace
 - [ ] DNA Pairing
 - [ ] Missing Letters
