@@ -6,6 +6,7 @@ The course included a number of challenges that escalated in difficulty and ende
 ---
 
 #### Basic Algorithm Scripting
+
 - [x] Convert Celsius to Fahrenheit
 - [x] Reverse a String
 - [x] Factorialise a Number
@@ -22,20 +23,20 @@ The course included a number of challenges that escalated in difficulty and ende
 - [x] Mutations
 - [x] Chunky Monkey
 
-
 ---
 
 #### Intermediate Algorithm Scripting
+
 - [x] Sum all Number in a Range
 - [x] Diff Two Arrays
 - [x] Seek and Destroy
 - [x] Wherefore art thou
 - [x] Spinal Tap Case
 - [x] Pig Latin
-- [ ] Search and Replace
-- [ ] DNA Pairing
-- [ ] Missing Letters
-- [ ] Sorted Union
+- [x] Search and Replace
+- [x] DNA Pairing
+- [x] Missing Letters
+- [x] Sorted Union
 - [ ] Convert HTML Entities
 - [ ] Sum All Odd Fibonacci Numbers
 - [ ] Sum All Primes
@@ -48,10 +49,10 @@ The course included a number of challenges that escalated in difficulty and ende
 - [ ] Make a Person
 - [ ] Map the Debris
 
-
 ---
 
 ### JavaScript Algorithms and Data Structures Projects
+
 - [x] Palindrome Checker
 - [ ] Roman Numeral Converter
 - [ ] Caesars Cipher
