@@ -1,4 +1,4 @@
-const whatIsInAName = require('./04-wherefore-are-thou');
+const whatIsInAName = require('./04-wherefore-art-thou');
 
 describe('whatIsInAName()', () => {
   test('should return an array', () => {
