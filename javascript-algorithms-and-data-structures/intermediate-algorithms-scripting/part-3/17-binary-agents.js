@@ -1,5 +1,5 @@
 function binaryAgent(str) {
-  return str.length === 0
+  return !str
     ? ''
     : str
         .split(' ')

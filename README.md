@@ -37,13 +37,13 @@ The course included a number of challenges that escalated in difficulty and ende
 - [x] DNA Pairing
 - [x] Missing Letters
 - [x] Sorted Union
-- [ ] Convert HTML Entities
-- [ ] Sum All Odd Fibonacci Numbers
-- [ ] Sum All Primes
-- [ ] Smallest Common Multiple
-- [ ] Drop it
-- [ ] Steamroller
-- [ ] Binary Agents
+- [x] Convert HTML Entities
+- [x] Sum All Odd Fibonacci Numbers
+- [x] Sum All Primes
+- [x] Smallest Common Multiple
+- [x] Drop it
+- [x] Steamroller
+- [x] Binary Agents
 - [ ] Everything be True
 - [ ] Arguments Optional
 - [ ] Make a Person
