@@ -54,7 +54,7 @@ The course included a number of challenges that escalated in difficulty and ende
 ### JavaScript Algorithms and Data Structures Projects
 
 - [x] Palindrome Checker
-- [ ] Roman Numeral Converter
+- [x] Roman Numeral Converter
 - [ ] Caesars Cipher
 - [ ] Telephone Number Validator
 - [ ] Cash Register
