@@ -47,7 +47,7 @@ The course included a number of challenges that escalated in difficulty and ende
 - [x] Everything be True
 - [x] Arguments Optional
 - [x] Make a Person
-- [ ] Map the Debris
+- [x] Map the Debris
 
 ---
 
