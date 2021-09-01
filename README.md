@@ -44,7 +44,7 @@ The course included a number of challenges that escalated in difficulty and ende
 - [x] Drop it
 - [x] Steamroller
 - [x] Binary Agents
-- [ ] Everything be True
+- [x] Everything be True
 - [ ] Arguments Optional
 - [ ] Make a Person
 - [ ] Map the Debris
