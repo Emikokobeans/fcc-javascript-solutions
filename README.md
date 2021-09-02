@@ -55,6 +55,6 @@ The course included a number of challenges that escalated in difficulty and ende
 
 - [x] Palindrome Checker
 - [x] Roman Numeral Converter
-- [ ] Caesars Cipher
-- [ ] Telephone Number Validator
+- [x] Caesars Cipher
+- [x] Telephone Number Validator
 - [ ] Cash Register
