@@ -57,4 +57,4 @@ The course included a number of challenges that escalated in difficulty and ende
 - [x] Roman Numeral Converter
 - [x] Caesars Cipher
 - [x] Telephone Number Validator
-- [ ] Cash Register
+- [x] Cash Register
